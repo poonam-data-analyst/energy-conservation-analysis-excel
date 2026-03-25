@@ -19,7 +19,9 @@
 🚀 Energy Conservation Analysis in the Indian Cement Industry
 
 
+
 📊 A structured case study using Interpretive Structural Modeling (ISM) to analyze energy conservation strategies in the Indian cement sector.
+
 
 
 📌 Overview
