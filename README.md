@@ -32,10 +32,7 @@ The goal is to simplify complex interdependencies and provide actionable insight
 🧩 System Thinking & Hierarchical Modeling
 📊 Reachability Matrix & SSIM
 🏗️ Graph Theory for Decision Systems
-📂 Project Structure
-├── 📊 energy-conservation-analysis-excel.xlsx   # Data & matrices
-├── 📽️ energy-conservation-analysis PPT.pptx    # Presentation
-└── 📄 README.md                                # Project documentation
+
 🔍 Problem Statement
 
 Energy consumption in the cement industry is highly complex, involving multiple:
@@ -61,12 +58,16 @@ Objective Measures
 Activities
 Activity Measures
 Agencies
+
+
 2. Structural Modeling (ISM)
 Developed SSIM (Structural Self-Interaction Matrix)
 Converted into Reachability Matrix
 Applied Transitivity Rule
 Built Directed Graph (Digraph)
 Created Hierarchical Model
+
+
 3. Classification Technique
 
 Using Driver Power vs Dependence Matrix, variables are grouped into:
@@ -76,34 +77,43 @@ Category	Description
 🔵 Dependent	Weak driver, strong dependence
 🟡 Linkage	Strong driver & dependence
 ⚫ Autonomous	Weak driver & dependence
+
+
 📊 Key Findings
+
 ⭐ Independent Variables (High Impact Drivers)
 Develop energy-efficient systems
 Apply automation & instrumentation
 Strong energy policy
 Training manpower
+
 🔄 Linkage Variables (Critical & Unstable)
 Convert wet to dry process
 Waste management
 Coal & electricity supply
 Captive power plants
+
 📉 Dependent Variables
 Energy utilization efficiency
 Coal quality improvement
 Capacity utilization
+
 🏢 Key Agency
 National Council for Cement and Building Materials (NCB)
 → Acts as a major influencing body across the system
+
 📈 Insights
 ✔ ISM helps visualize complex relationships clearly
 ✔ Identifies high-impact variables for decision-making
 ✔ Enables better policy formulation
 ✔ Highlights system dependencies and feedback loops
+
 🎯 Applications
 🏭 Industrial Energy Optimization
 📜 Government Policy Design
 📊 Strategic Planning
 🌱 Sustainability Initiatives
+
 🛠️ Tools & Techniques
 Microsoft Excel (Data Analysis)
 ISM Methodology
