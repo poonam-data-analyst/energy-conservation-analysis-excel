@@ -1,4 +1,4 @@
-##📈 Visual Insights
+📈 Visual Insights
 <h2 align="center">MCDM Analysis Results</h2>
 
 <table border="0">
