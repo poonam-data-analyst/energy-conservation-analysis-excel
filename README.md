@@ -1,4 +1,4 @@
-📈 Visual Insights
+## 📈 Visual Insights
 <h2 align="center">MCDM Analysis Results</h2>
 
 <table border="0">
@@ -16,22 +16,22 @@
   </tr>
 </table>
 
-🚀 Energy Conservation Analysis in the Indian Cement Industry
+## 🚀 Energy Conservation Analysis in the Indian Cement Industry
 
 
 
-📊 A structured case study using Interpretive Structural Modeling (ISM) to analyze energy conservation strategies in the Indian cement sector.
+## 📊 A structured case study using Interpretive Structural Modeling (ISM) to analyze energy conservation strategies in the Indian cement sector.
 
 
 
-📌 Overview
+## 📌 Overview
 
 This project presents a comprehensive system-level analysis of energy conservation in the Indian cement industry. Using Interpretive Structural Modeling (ISM), it identifies relationships between multiple factors such as societal sectors, constraints, objectives, and activities.
 
 The goal is to simplify complex interdependencies and provide actionable insights for policy-making and strategic planning.
 
 
-🧠 Key Concepts Used
+## 🧠 Key Concepts Used
 
 🔗 Interpretive Structural Modeling (ISM)
 
@@ -44,7 +44,7 @@ The goal is to simplify complex interdependencies and provide actionable insight
 🏗️ Graph Theory for Decision Systems
 
 
-🔍 Problem Statement
+## 🔍 Problem Statement
 
 
 Energy consumption in the cement industry is highly complex, involving multiple:
@@ -60,10 +60,10 @@ Operational activities
 Understanding their interdependencies is critical for improving efficiency.
 
 
-⚙️ Methodology
+## ⚙️ Methodology
 
 
-1. Identification of Elements
+## 1. Identification of Elements
 
 The system is divided into 9 major elements:
 
@@ -86,7 +86,7 @@ Activity Measures
 Agencies
 
 
-2. Structural Modeling (ISM)
+## 2. Structural Modeling (ISM)
 
 Developed SSIM (Structural Self-Interaction Matrix)
 
@@ -99,11 +99,11 @@ Built Directed Graph (Digraph)
 Created Hierarchical Model
 
 
-3. Classification Technique
+## 3. Classification Technique
 
 Using Driver Power vs Dependence Matrix, variables are grouped into:
 
-Category	Description
+## Category	Description
 
 🟢 Independent	Strong driver, weak dependence
 
@@ -114,9 +114,9 @@ Category	Description
 ⚫ Autonomous	Weak driver & dependence
 
 
-📊 Key Findings
+## 📊 Key Findings
 
-⭐ Independent Variables (High Impact Drivers)
+## ⭐ Independent Variables (High Impact Drivers)
 
 Develop energy-efficient systems
 
@@ -126,7 +126,7 @@ Strong energy policy
 
 Training manpower
 
-🔄 Linkage Variables (Critical & Unstable)
+## 🔄 Linkage Variables (Critical & Unstable)
 
 Convert wet to dry process
 
@@ -136,7 +136,7 @@ Coal & electricity supply
 
 Captive power plants
 
-📉 Dependent Variables
+## 📉 Dependent Variables
 
 Energy utilization efficiency
 
@@ -146,7 +146,7 @@ Capacity utilization
 
 
 
-📈 Insights
+## 📈 Insights
 
 ✔ ISM helps visualize complex relationships clearly
 
@@ -157,7 +157,7 @@ Capacity utilization
 ✔ Highlights system dependencies and feedback loops
 
 
-🎯 Applications
+## 🎯 Applications
 
 🏭 Industrial Energy Optimization
 
@@ -168,7 +168,7 @@ Capacity utilization
 🌱 Sustainability Initiatives
 
 
-🛠️ Tools & Techniques
+## 🛠️ Tools & Techniques
 
 Microsoft Excel (Data Analysis)
 
